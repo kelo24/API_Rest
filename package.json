@@ -1,0 +1,22 @@
+{
+  "name": "API Rest",
+  "version": "1.0.0",
+  "description": "Una práctica  de API Rest.",
+  "main": "index.js",
+  "scripts": {
+    "kel": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Kelvin",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

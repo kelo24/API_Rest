@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "abbr": "CIM",
+        "name": "Chichén Itzá",
+        "location": "México",
+        "cover": "https://laverdadnoticias.com/__export/1569683869708/sites/laverdad/img/2019/09/28/chichxn_itzx_crop1569683502676.jpg_1902800913.jpg",
+        "geo": {
+            "lat": "20.683056",
+            "lon": "-88.568611"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1",
+            "oficial": ""
+        },
+        "year": 1988
+    },
+    {
+        "id": 2,
+        "abbr": "CRI",
+        "name": "Coliseo de Roma",
+        "location": "Italia",
+        "cover": "https://images.memphistours.com/large/b8473b7c095cc1366a923aeb77582e49.jpg",
+        "geo": {
+            "lat": "41.890278",
+            "lon": "12.492222"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Coliseo",
+            "oficial": ""
+        },
+        "year": 1980
+    },
+    {
+        "id": 3,
+        "abbr": "CRB",
+        "name": "Cristo Redentor",
+        "location": "Brasil",
+        "cover": "https://rederiohoteis.com/wp-content/uploads/2017/09/2017-10-29-cristo-redentor-conhe%C3%A7a-a-historia-dessa-maravilha-do-mundo-moderno2.jpg",
+        "geo": {
+            "lat": "-22.952333",
+            "lon": "-43.210361"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Cristo_Redentor",
+            "oficial": "https://www.tremdocorcovado.rio/"
+        },
+        "year": 2007
+    },
+    {
+        "id": 4,
+        "abbr": "GMCC",
+        "name": "Gran Muralla China",
+        "location": "China",
+        "cover": "https://topadventure.com/__export/1610654165866/sites/laverdad/img/2021/01/14/muralla_china_2.jpg_1902800913.jpg",
+        "geo": {
+            "lat": "40.416667",
+            "lon": "116.083333"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Gran_Muralla_China",
+            "oficial": "http://www.thegreatwall.com.cn/"
+        },
+        "year": 1987
+    },
+    {
+        "id": 5,
+        "abbr": "MPP",
+        "name": "Machu Picchu",
+        "location": "Perú",
+        "cover": "https://www.boletomachupicchu.com/gutblt/wp-content/images/machu-picchu-primavera-1.jpg",
+        "geo": {
+            "lat": "-13.163056",
+            "lon": "-72.545556"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Machu_Picchu",
+            "oficial": "https://www.machupicchu.gob.pe/"
+        },
+        "year": 1983
+    },
+    {
+        "id": 6,
+        "abbr": "PJ",
+        "name": "Petra",
+        "location": "Jordania",
+        "cover": "https://www.actualidadviajes.com/wp-content/uploads/2020/10/Petra.jpg",
+        "geo": {
+            "lat": "30.3252286",
+            "lon": "35.4435509"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Petra",
+            "oficial": "http://www.visitpetra.jo/"
+        },
+        "year": 1985
+    }
+]
