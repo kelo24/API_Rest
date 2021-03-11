@@ -72,7 +72,7 @@ router.delete('/:abbr', (req, res) => {
         if (wonder.abbr == abbr) {
             wonders.splice(i, 1);
             console.log(`${wonder.name} has been eliminated.`.yellow);
-            console.log(`${i}`.bgWhite);
+            console.log(`${i}`.black.bgWhite);
         }
     });
 
@@ -87,7 +87,7 @@ router.put('/:abbrP', (req, res) => {
     const { lat, lon } = bod.geo;
     const { wiki, oficial } = bod.web;
 
-    const { geoMod, geoId } = bod.config;
+    const { geoMod, idMod } = bod.config;
 
     const newGeo = `${lat}, ${lon}`;
     
@@ -110,7 +110,7 @@ router.put('/:abbrP', (req, res) => {
             if (geoMod) {
                 wonder.geo = newGeo;
             }
-            if (geoId) {
+            if (idMod) {
                 wonder.id = id
             }
 
