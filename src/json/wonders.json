@@ -94,5 +94,21 @@
             "oficial": "http://www.visitpetra.jo/"
         },
         "year": 1985
+    },
+    {
+        "id": 7,
+        "abbr": "TMI",
+        "name": "Taj Mahal",
+        "location": "India",
+        "cover": "https://newsweekespanol.com/wp-content/uploads/2018/05/AdobeStock_42942571.jpeg",
+        "geo": {
+            "lat": "27.174167",
+            "lon": "78.042222"
+        },
+        "web": {
+            "wiki": "https://es.wikipedia.org/wiki/Taj_Mahal",
+            "oficial": ""
+        },
+        "year": 1983
     }
 ]

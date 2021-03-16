@@ -131,7 +131,7 @@ router.put('/:abbrP', (req, res) => {
 //// PATCH Method
 ////// Reordering the id
 router.patch('/reorder', (req, res) => {
-    const { action } = req.params;
+    //const { action } = req.params;
 
     _.each(wonders, (wonder, i) => {
         //if (action == 'reorder') {
@@ -166,6 +166,6 @@ router.get('/:abbr/:prop', (req, res) => {
             console.log('vamo');
         }
     })
-    res.send();
+    res.send(wonder.web.wiki);
 })
 */
